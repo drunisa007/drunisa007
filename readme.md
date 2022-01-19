@@ -5,7 +5,6 @@
 <p>I'm a professional Mobile Developer with over 4 years of experience in every mobile software operating system platform.</p>
 
 
-</br>
 
 ***
 
