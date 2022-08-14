@@ -15,8 +15,8 @@
 <a href="https://www.linkedin.com/in/drunisa007/"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 </p>
 
-\
 
+</br>
 </br>
 
 <a href="https://github.com/drunisa007">
@@ -24,9 +24,7 @@
 </a>
 
 </br>
-
-\
-
+</br>
 
 <a href="https://github.com/drunisa007">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=drunisa007&custom_title=My%20Github%20Stats&show_icons=true&bg_color=0,232526,414345&icon_color=82FF99&title_color=ffffff&text_color=ffffff&line_height=20.5&v=5&count_private=true"/>
