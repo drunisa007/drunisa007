@@ -20,7 +20,7 @@
 </br>
 
 <a href="https://github.com/drunisa007">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drunisa007&count_private=true&exclude_repo=session3,tuto_http,ios_plugin_facetec,myanmar-soccer,Nura-Express,Technovation-Society,error_new_android_app,real_news_android_app,tour-guide&layout=compact&bg_color=0,232526,414345&icon_color=ffffff&title_color=ffffff&text_color=ffffff&line_height=50&v=6"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drunisa007&hide=cmake,html,makefile&count_private=true&exclude_repo=ios_plugin_facetec,myanmar-soccer,Nura-Express,Technovation-Society,error_new_android_app,real_news_android_app,tour-guide&layout=compact&bg_color=0,232526,414345&icon_color=ffffff&title_color=ffffff&text_color=ffffff&line_height=50&v=6"/>
 </a>
 
 </br>
