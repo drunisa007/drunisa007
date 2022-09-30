@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=drunisa007)
 
-<p>I'm a professional Mobile Developer with over 4 years of experience in every mobile software operating system platform.</p>
+<p>An organized, collaborative and highly skilled mobile developer with over 5 years experience in all mobile software operating system platforms.Focused on application performance and always provided high quality clean code.Always Improving myself by learning different programming languages and new technologies.</p>
 
 
 
