@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Aung Thu who loves PROGRAMMING.</h1>
+<h1>Hi 👋, I'm Aung Thu (Arun Katwal) who loves PROGRAMMING.</h1>
 
 ![](https://komarev.com/ghpvc/?username=drunisa007)
 
